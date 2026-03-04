@@ -18,7 +18,7 @@
 ## 🎯 Goals
 
 - My goal is to be a Backend Developer
-- Build real projects
+- To develop real projects
 - Get my first job in tech
 
 ---
