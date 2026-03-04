@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Lucas Moreira
 
-🎓 ADS Student  
+🎓 Student of Systems Analysis and Development
 💻 Java Backend Developer in progress  
 📚 Learning Programming and Technology  
 
